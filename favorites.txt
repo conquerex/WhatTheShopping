@@ -1,3 +1,6 @@
 bread
 beer
 icecream
+sample movie 1
+sample movie 2
+sample movie 3
